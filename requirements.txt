@@ -1,5 +1,5 @@
 numpy==1.15.4
 matplotlib==2.0.2
-bqplot=0.11.2
-ipywidgets=7.0.0 
+bqplot==0.11.2
+ipywidgets==7.0.0 
 
