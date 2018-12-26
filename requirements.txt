@@ -2,4 +2,6 @@ numpy==1.15.4
 matplotlib==2.0.2
 bqplot==0.11.2
 ipywidgets==7.0.0 
+scipy==1.2.0
+traitlets==4.3.2
 
